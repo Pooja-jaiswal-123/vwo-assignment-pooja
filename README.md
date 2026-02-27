@@ -39,13 +39,13 @@ Confirms a `200 Successful Response`, indicating that the CrewAI agents have fin
 
 ##  Expected Features (Now Fully Working)
 
-| Feature                        | Status | Description                                                              |
+| Feature                        | | Description                                                              |
 | :----------------------------- | :----: | :----------------------------------------------------------------------- |
-| **Document Upload**            |   ✅   | Seamlessly upload financial documents (PDF format) via FastAPI.          |
-| **Deterministic AI Analysis**  |   ✅   | Fact-based data extraction using specialized CrewAI agents.              |
-| **Investment Recommendations** |   ✅   | Compliant, non-speculative advice based purely on verified data.         |
-| **Risk Assessment**            |   ✅   | Factual identification of market and operational risks.                  |
-| **Database Persistence**       |   ✅   | Local SQLite database integration to store queries and analysis results. |
+| **Document Upload**            | | Seamlessly upload financial documents (PDF format) via FastAPI.          |
+| **Deterministic AI Analysis**  | | Fact-based data extraction using specialized CrewAI agents.              |
+| **Investment Recommendations** | | Compliant, non-speculative advice based purely on verified data.         |
+| **Risk Assessment**            | | Factual identification of market and operational risks.                  |
+| **Database Persistence**       | | Local SQLite database integration to store queries and analysis results. |
 
 ---
 
