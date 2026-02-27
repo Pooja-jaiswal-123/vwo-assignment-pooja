@@ -16,7 +16,7 @@
 
 ---
 
-## 📸 Project Showcase
+## Project Showcase
 
 > Below are the visual proofs of the fixed system running successfully on the local environment.
 
@@ -37,7 +37,7 @@ Confirms a `200 Successful Response`, indicating that the CrewAI agents have fin
 
 ---
 
-## ✨ Expected Features (Now Fully Working)
+##  Expected Features (Now Fully Working)
 
 | Feature                        | Status | Description                                                              |
 | :----------------------------- | :----: | :----------------------------------------------------------------------- |
@@ -49,7 +49,7 @@ Confirms a `200 Successful Response`, indicating that the CrewAI agents have fin
 
 ---
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### 1. Prerequisites & Installation
 
